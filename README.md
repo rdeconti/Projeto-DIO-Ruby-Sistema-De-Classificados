@@ -81,4 +81,11 @@ Neste Labs iremos desenvolver em duas etapas um sistema completo de classificado
 
 # Exemplos de telas
 
-<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/tela.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Cadastro-Usuario.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Editar-1.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Editar-Resposta.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Incluir-1.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Incluir-Resposta.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Tela-Inicial-1.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Tela-Inicial-Boas-Vindas.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Tela-Inicial-Login-Depois-Cadastrar.jpg" />
