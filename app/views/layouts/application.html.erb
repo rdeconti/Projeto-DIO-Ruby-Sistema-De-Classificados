@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title>Classificados</title>
+
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+  </head>
+
+  <body>
+
+      <div class="container">
+
+          <Header>
+            <h1 class="name" >Sistema de Classificados</h1>
+          </Header>
+
+          <nav class="navbar">
+
+            <% if user_signed_in? %>
+
+              <%= button_to t("menu.logout"), sign_out_sessions_path, method: :delete %>
+              <%= link_to t("menu.new_ad"), new_ad_path %>
+
+            <% else %>
+
+              <%= link_to t("menu.home"), root_path %>
+              <%= link_to t("menu.signup"), new_user_path %>
+              <%= link_to t("menu.signin"), new_session_path %>
+
+            <% end %>
+          
+          </nav>
+
+          <p class="error">
+              <%= flash.notice %>
+              <%= flash.alert %>
+          </p>
+
+          <%= yield %>
+
+      </div>
+
+  </body>
+</html>
