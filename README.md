@@ -79,7 +79,7 @@ Neste Labs iremos desenvolver em duas etapas um sistema completo de classificado
       @import "~bootstrap/scss/bootstrap";
       @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
-# Exemplos de telas
+# Exemplos de telas (testes executados no Visual Studio Code rodando no Windows)
 
 <img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Cadastro-Usuario.jpg" />
 <img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Editar-1.jpg" />
@@ -88,4 +88,4 @@ Neste Labs iremos desenvolver em duas etapas um sistema completo de classificado
 <img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Incluir-Resposta.jpg" />
 <img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Tela-Inicial-1.jpg" />
 <img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Tela-Inicial-Boas-Vindas.jpg" />
-<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Tela-Inicial-Login-Depois-Cadastrar.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados/blob/main/Test-Screens/Classificados-Tela-Inicial-Login-Depois-Cadastar.jpg" />
